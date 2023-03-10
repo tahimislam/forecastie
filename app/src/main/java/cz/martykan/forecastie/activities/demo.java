@@ -23,7 +23,6 @@ public class demo {
     public void setTest2(String test2) {
         this.test2 = test2;
     }
-
     public demo(String test3) {
         this.test3 = test3;
     }
